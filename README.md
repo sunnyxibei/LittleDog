@@ -2,11 +2,14 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/sunnyxibei/LittleDog/workflows/Check/badge.svg)
+* todo 暂时没有加workflow
 
 
-## :scroll: Description
+## App简介
 <!--- Describe your app in one or two sentences -->
+* 首页，包含小狗列表，我已经收养的小狗列表
+* 小狗详情页面，展示小狗的图片，犬种，年龄，位置，图片仅为占位，不一定和狗狗品种匹配
 
 
 ## :bulb: Motivation and Context
@@ -16,7 +19,9 @@
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.jpg" width="260">&emsp;
+<img src="/results/screenshot_2.jpg" width="260">&emsp;
+<img src="/results/screenshot_3.jpg" width="260">
 
 ## License
 ```
